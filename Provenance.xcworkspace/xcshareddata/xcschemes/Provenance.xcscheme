@@ -51,10 +51,6 @@
          </BuildableReference>
       </MacroExpansion>
       <TestPlans>
-         <TestPlanReference
-            reference = "container:Provenance.xctestplan"
-            default = "YES">
-         </TestPlanReference>
       </TestPlans>
       <Testables>
          <TestableReference
